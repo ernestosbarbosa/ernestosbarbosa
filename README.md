@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Ernesto.
+My name is José Ernesto
 
 I'm passionate about technology and areas of research, development and innovation.
 I work specially with Quality Assurance and currently I work at CWI Software in Brazil.
