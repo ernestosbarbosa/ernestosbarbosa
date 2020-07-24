@@ -20,9 +20,9 @@ My name is José Ernesto
 I'm passionate about technology and areas of research, development and innovation.
 I work specially with Quality Assurance and currently I work at CWI Software in Brazil.
 Below you can see some repositories with my experiments and contributions for the community.
-Follow me:
 
-[![Medium](https://badgen.net/badge/Medium/%40ernestosbarbosa?icon=medium)](https://medium.com/@ernestosbarbosa)
-[![Linkedin](https://badgen.net/badge/Linkedin/ernestosbarbosa?icon=linkedin)](https://www.linkedin.com/in/ernestosbarbosa/)
+Follow me: [![Medium](https://badgen.net/badge/Medium/%40ernestosbarbosa?icon=medium)](https://medium.com/@ernestosbarbosa) [![Linkedin](https://badgen.net/badge/Linkedin/ernestosbarbosa?icon=linkedin)](https://www.linkedin.com/in/ernestosbarbosa/)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ernestosbarbosa&show_icons=true&hide=[%22prs%22,%22issues%22])
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestosbarbosa)](https://github.com/ernestosbarbosa?tab=repositories)
