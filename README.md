@@ -24,3 +24,5 @@ Follow me:
 
 [![Medium](https://badgen.net/badge/Medium/%40ernestosbarbosa?icon=medium)](https://medium.com/@ernestosbarbosa)
 [![Linkedin](https://badgen.net/badge/Linkedin/ernestosbarbosa?icon=linkedin)](https://www.linkedin.com/in/ernestosbarbosa/)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=ernestosbarbosa&show_icons=true&hide=[%22prs%22,%22issues%22])
